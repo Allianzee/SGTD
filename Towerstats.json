@@ -38,6 +38,51 @@
             }
         ]
     },
+
+"Sonus": {
+    "Type": "Single",
+    "Rarity": "Legendary",
+    "Image": "rbxassetid://1234567",
+    "PlacePrice": 700,
+    "Upgrades": [
+        {
+            "Level": 1,
+            "Damage": 20,
+            "Range": 15,
+            "Cooldown": 0.05,
+            "Price": 0
+        },
+        {
+            "Level": 2,
+            "Damage": 25,
+            "Range": 17,
+            "Cooldown": 0.05,
+            "Price": 500
+        },
+        {
+            "Level": 3,
+            "Damage": 30,
+            "Range": 19,
+            "Cooldown": 0.05,
+            "Price": 1000
+        },
+        {
+            "Level": 4,
+            "Damage": 35,
+            "Range": 21,
+            "Cooldown": 0.05,
+            "Price": 2000
+        },
+        {
+            "Level": 5,
+            "Damage": 45,
+            "Range": 25,
+            "Cooldown": 0.05,
+            "Price": 5000
+        }
+    ]
+},
+    
  "YAAI Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://74757900366324",
