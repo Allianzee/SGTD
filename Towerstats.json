@@ -43,6 +43,8 @@
     "Type": "Single",
     "Rarity": "Legendary",
     "Image": "rbxassetid://70398285653271",
+    "ShinyImage": "rbxassetid://75707405933100",
+    "Max": 3,
     "PlacePrice": 700,
     "Upgrades": [
         {
@@ -81,7 +83,7 @@
             "Price": 5000
         }
     ]
-},
+}
     
  "YAAI Freddy": {
         "Type": "Splash",
