@@ -1,161 +1,75 @@
 {
-    "Freddy": {
+    "Sonus": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
-        "Max": 8,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
+        "Rarity": "Legendary",
+        "Image": "rbxassetid://70398285653271",
+        "Max": 5,
+        "PlacePrice": 700,
         "Upgrades": [
             {
-                "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
-            },
-            {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
-            },
-            {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1250,
+                "Level": 1,
+                "Damage": 20,
                 "Range": 15,
-                "Damage": 70,
-                "Cooldown": 0.75
+                "Cooldown": 0.05,
+                "Price": 0
+            },
+            {
+                "Level": 2,
+                "Damage": 25,
+                "Range": 17,
+                "Cooldown": 0.05,
+                "Price": 500
+            },
+            {
+                "Level": 3,
+                "Damage": 30,
+                "Range": 19,
+                "Cooldown": 0.05,
+                "Price": 1000
+            },
+            {
+                "Level": 4,
+                "Damage": 35,
+                "Range": 21,
+                "Cooldown": 0.05,
+                "Price": 2000
             }
         ]
     },
-
-"Sonus": {
-    "Type": "Single",
-    "Rarity": "Legendary",
-    "Image": "rbxassetid://70398285653271",
-    "Max": 5,
-    "PlacePrice": 700,
-    "Upgrades": [
-        {
-            "Level": 1,
-            "Damage": 20,
-            "Range": 15,
-            "Cooldown": 0.05,
-            "Price": 0
-        },
-        {
-            "Level": 2,
-            "Damage": 25,
-            "Range": 17,
-            "Cooldown": 0.05,
-            "Price": 500
-        },
-        {
-            "Level": 3,
-            "Damage": 30,
-            "Range": 19,
-            "Cooldown": 0.05,
-            "Price": 1000
-        },
-        {
-            "Level": 4,
-            "Damage": 35,
-            "Range": 21,
-            "Cooldown": 0.05,
-            "Price": 2000
-        }
-    ]
-},
-
-"Articulos": {
-    "Type": "Single",
-    "Rarity": "Mythic",
-    "Image": "rbxassetid://120777224711500",
-    "Max": 3,
-    "PlacePrice": 500,
-    "Upgrades": [
-        {
-            "Level": 1,
-            "Damage": 20,
-            "Range": 15,
-            "Cooldown":3,
-            "Price": 0
-        },
-        {
-            "Level": 2,
-            "Damage": 25,
-            "Range": 17,
-            "Cooldown": 2,
-            "Price": 500
-        },
-        {
-            "Level": 3,
-            "Damage": 30,
-            "Range": 19,
-            "Cooldown": 1,
-            "Price": 1000
-        },
-        {
-            "Level": 4,
-            "Damage": 35,
-            "Range": 21,
-            "Cooldown": 0.05,
-            "Price": 2000
-        }
-    ]
-},    
-    
-"Fossilized Puppet": {
+    "Articulos": {
         "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 1000,
-        "Offset": 0,
+        "Rarity": "Mythic",
+        "Image": "rbxassetid://120777224711500",
         "Max": 3,
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
+        "PlacePrice": 500,
         "Upgrades": [
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Level": 1,
+                "Damage": 20,
+                "Range": 15,
                 "Cooldown": 3,
-                "RangeBoost": 1.05
+                "Price": 0
             },
-                        {
-                "Price": 115115,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3,
-                "RangeBoost": 1.05
+            {
+                "Level": 2,
+                "Damage": 25,
+                "Range": 17,
+                "Cooldown": 2,
+                "Price": 500
             },
-                        {
-                "Price": 129777,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3,
-                "RangeBoost": 1.05
+            {
+                "Level": 3,
+                "Damage": 30,
+                "Range": 19,
+                "Cooldown": 1,
+                "Price": 1000
             },
-                        {
-                "Price": 143143,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3,
-                "RangeBoost": 1.05
+            {
+                "Level": 4,
+                "Damage": 35,
+                "Range": 21,
+                "Cooldown": 0.05,
+                "Price": 2000
             }
         ]
     }
